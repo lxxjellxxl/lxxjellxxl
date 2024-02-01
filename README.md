@@ -1,5 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=walidzakaria&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Your Banner](https://i.gifer.com/39Cg.gif)
+<img src="https://i.gifer.com/39Cg.gif" alt="img" width="500" height="600">
 <h1 align="center">Hi 👋, I'm Ahmed Abdo</h1>
 <h3 align="center">Coretech-x IT solutions Founder</h3>
 
