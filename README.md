@@ -1,5 +1,7 @@
-![Your Banner](https://i.gifer.com/39Cg.gif)
-<img src="https://i.gifer.com/39Cg.gif" alt="img" width="500" height="600">
+<!-- Masterhead -->
+<p align="center">
+  <img src="https://i.gifer.com/39Cg.gif" alt="Master Head" width="500" height="600">
+</p>
 <h1 align="center">Hi 👋, I'm Ahmed Abdo</h1>
 <h3 align="center">Coretech-x IT solutions Founder</h3>
 
